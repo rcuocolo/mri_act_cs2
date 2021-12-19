@@ -11,7 +11,7 @@ Finally, from the resulting, scaled dataset the features actually employed to tr
 
 ## Citation
 
-Will update with paper details as soon as possible.
+- Gitto S, Cuocolo R, van Langevelde K, et al (2022) MRI radiomics-based machine learning classification of atypical cartilaginous tumour and grade II chondrosarcoma of long bones. EBioMedicine 75:103757. https://doi.org/10.1016/j.ebiom.2021.103757
 
 ## License
 
